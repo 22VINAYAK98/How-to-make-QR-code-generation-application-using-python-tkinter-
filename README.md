@@ -1,4 +1,4 @@
-# How-to-make-QR-code-generation-application-using-python-tkinter-
+# How-to-make-QR-code-generation-application-using-python-tkinter ?
  Requirements  tkinter , qrcode
 
 Are you wondered how to generate  QR code using python  \and what if you make GUI for that ?
